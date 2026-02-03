@@ -1,3 +1,9 @@
+-=(DonkeyKong3_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Clocks swapped in sys.tcl (not needed any more).
+
 ---------------------------------------------------------------------------------
 -- 
 -- *** WORK IN PROGRESS VERSION ***
